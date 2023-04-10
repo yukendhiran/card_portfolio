@@ -22,6 +22,7 @@ export default function Hero(){
                     <p>"Currently, I am interested in exploring the exciting and rapidly-evolving world of <strong>WEB3 space</strong> and I am open to work opportunities where I can learn and apply new technologies."</p> <br/>
                     <p>Thank you for taking the time to read my introduction!!!</p>
                     <div className="mt-5 flex space-x-3 justify-center">
+                    
                     <Link href="https://www.linkedin.com/in/yukendhiran-elango/">
                         <Image
                             className="hover:scale-75"
